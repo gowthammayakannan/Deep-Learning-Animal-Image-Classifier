@@ -58,5 +58,3 @@ Copy code
 ## 📜 License
 MIT License
 
-## ⭐ Support
-If you find this project useful, consider giving it a ⭐ on GitHub!
