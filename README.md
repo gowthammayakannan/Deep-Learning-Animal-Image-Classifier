@@ -35,3 +35,28 @@ AnimalVision-CNN/
 ## 🔧 How to Run
 1. Place your dataset in `data/Animals.zip`
 2. Install dependencies:
+pip install -r requirements.txt
+
+markdown
+Copy code
+3. Train the model:
+python src/train.py
+
+markdown
+Copy code
+4. Predict images:
+python src/predict.py
+
+markdown
+Copy code
+
+## 📊 Model Output
+- Train vs Validation Accuracy
+- Train vs Validation Loss
+- Random test image predictions
+
+## 📜 License
+MIT License
+
+## ⭐ Support
+If you find this project useful, consider giving it a ⭐ on GitHub!
